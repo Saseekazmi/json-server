@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "streams": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "Title1",
+      "description": "Doing edit test",
+      "userId": "107369062936815672735",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "title 2",
+      "description": "desc2",
+      "userId": "107369062936815672735",
+      "id": 2
     }
   ]
 }
